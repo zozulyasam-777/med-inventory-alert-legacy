@@ -1,4 +1,6 @@
-# 🚨 med-inventory-alert
+# 🚨 med-inventory-alert-legacy
+
+⚠️ Legacy: Prototype v1. The current version of the DWH pipeline is in the repository https://github.com/zozulyasam-777/med-inventory-dwh
 
 **Self-hosted medical inventory monitoring system with automated shortage alerts and delivery forecasting**  
 Built with **n8n**, **PostgreSQL**, and **Telegram** — no Google Sheets, no cloud dependencies. Ideal for offline or sanction-resilient environments.
